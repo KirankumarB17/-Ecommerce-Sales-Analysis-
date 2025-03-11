@@ -16,3 +16,5 @@ Provide a comprehensive data-driven report with actionable insights and recommen
 - Which geographic regions are generating the most sales, and are there any regional trends that the company can leverage?
 - What is the behavior and preferences of their customers, including their purchase patterns, demographics, and interests?
 - What is the impact of marketing campaigns, promotions, and other factors on their sales performance?
+  
+-Dashboard interaction <a href="https://github.com/KirankumarB17/-Ecommerce-Sales-Analysis-/blob/main/Screenshot%202025-03-11%20090402.png">View Dashboard<a/>
