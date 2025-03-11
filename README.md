@@ -19,7 +19,7 @@ Provide a comprehensive data-driven report with actionable insights and recommen
   
 -Dashboard interaction <a href="https://github.com/KirankumarB17/-Ecommerce-Sales-Analysis-/blob/main/Screenshot%202025-03-11%20090402.png">View Dashboard<a/>
 
-# Process
+## Process
 - Collect raw e-commerce sales data from multiple sources, including Excel datasets, databases, and APIs.
 - Handle missing values, remove duplicates, and correct inconsistencies to ensure accuracy.
 - Organize data into a structured format, making it ready for analysis.
@@ -33,4 +33,5 @@ Provide a comprehensive data-driven report with actionable insights and recommen
 - Implement slicers and filters for real-time data exploration.
 - Utilize Heat Maps to highlight regional sales performance.
 
-
+## Dashboard  
+![Uploading Screenshot 2025-03-11 090402.png…].(https://github.com/KirankumarB17/-Ecommerce-Sales-Analysis-/blob/main/Screenshot%202025-03-11%20090402.png)
