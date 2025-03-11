@@ -34,4 +34,6 @@ Provide a comprehensive data-driven report with actionable insights and recommen
 - Utilize Heat Maps to highlight regional sales performance.
 
 ## Dashboard  
-![Uploading Screenshot 2025-03-11 090402.png…].(https://github.com/KirankumarB17/-Ecommerce-Sales-Analysis-/blob/main/Screenshot%202025-03-11%20090402.png)
+![Uploading Screenshot 2025-03-11 090402.png…]()
+.(https://github.com/KirankumarB17/-Ecommerce-Sales-Analysis-/blob/main/Screenshot%202025-03-11%20090402.png)
+
