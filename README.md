@@ -6,3 +6,6 @@ Identify opportunities to optimize product offerings and categories to maximize 
 Analyze customer behavior and preferences to enhance the shopping experience and increase retention.
 Assess the impact of marketing campaigns, promotions, and external factors on sales performance to optimize marketing strategies and spending.
 Provide a comprehensive data-driven report with actionable insights and recommendations to support strategic decision-making and business growth.
+
+## Dataset Used
+- <a href="https://github.com/KirankumarB17/-Ecommerce-Sales-Analysis-/blob/main/Ecommerce%20Sales%20Analysis.xlsx">Dataset</a>
