@@ -1,2 +1,8 @@
-# Ecommerce-Sales-Analysis
-E-commerce Sales Analysis This project analyzes e-commerce sales data to gain insights into business performance. It includes KPI tracking, YoY comparisons, and state-wise sales trends. Using visualizations like combo charts, waterfall charts, and dashboards, it helps optimize decision-making for growth and efficiency.
+# E-commerce Sales Performance Analysis & Optimization Using Excel
+
+## Project Objectives:
+Improve overall sales performance by analyzing key metrics such as revenue, profit margins, sales growth, customer acquisition, and retention rates.
+Identify opportunities to optimize product offerings and categories to maximize sales revenue.
+Analyze customer behavior and preferences to enhance the shopping experience and increase retention.
+Assess the impact of marketing campaigns, promotions, and external factors on sales performance to optimize marketing strategies and spending.
+Provide a comprehensive data-driven report with actionable insights and recommendations to support strategic decision-making and business growth.
