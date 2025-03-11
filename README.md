@@ -20,15 +20,17 @@ Provide a comprehensive data-driven report with actionable insights and recommen
 -Dashboard interaction <a href="https://github.com/KirankumarB17/-Ecommerce-Sales-Analysis-/blob/main/Screenshot%202025-03-11%20090402.png">View Dashboard<a/>
 
 # Process
--Collect raw e-commerce sales data from multiple sources, including Excel datasets, databases, and APIs.
--Handle missing values, remove duplicates, and correct inconsistencies to ensure accuracy.
--Organize data into a structured format, making it ready for analysis.
--Identify trends, patterns, and anomalies within the dataset.
--Examine correlations between sales metrics, product categories, and customer demographics.
--Use tables, bar charts, and scatter plots to gain initial insights.
+- Collect raw e-commerce sales data from multiple sources, including Excel datasets, databases, and APIs.
+- Handle missing values, remove duplicates, and correct inconsistencies to ensure accuracy.
+- Organize data into a structured format, making it ready for analysis.
+- Identify trends, patterns, and anomalies within the dataset.
+- Examine correlations between sales metrics, product categories, and customer demographics.
+- Use tables, bar charts, and scatter plots to gain initial insights.
 - KPIs Evaluate revenue, profit margins, sales growth, customer acquisition, and retention rates.
--Identify best-selling products, high-revenue categories, and their contribution to total sales.
--Analyze geographic performance to identify high-growth markets.
--Use Combo Charts, Waterfall Charts, and Donut Charts for comprehensive analysis.
--Implement slicers and filters for real-time data exploration.
--Utilize Heat Maps to highlight regional sales performance.
+- Identify best-selling products, high-revenue categories, and their contribution to total sales.
+- Analyze geographic performance to identify high-growth markets.
+- Use Combo Charts, Waterfall Charts, and Donut Charts for comprehensive analysis.
+- Implement slicers and filters for real-time data exploration.
+- Utilize Heat Maps to highlight regional sales performance.
+
+
