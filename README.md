@@ -43,6 +43,11 @@ Sales – Total revenue generated,
  Number of Orders – Total transactions made,
  Profit Margin – Profit as a percentage of sales,
  YOY Growth – Year-over-Year comparison to measure trends and performance
+-Combo Chart – Sales & Profit Analysis
+ Displays monthly trends for sales (blue bars) and profit (yellow area).
+Highest sales in November and highest profit in December → likely due to holiday season impact.
+
+
 
  
 
