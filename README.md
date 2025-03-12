@@ -37,13 +37,8 @@ Provide a comprehensive data-driven report with actionable insights and recommen
 ![Screenshot 2025-03-11 090402](https://github.com/user-attachments/assets/975740bb-8a19-4a44-b059-03f02214320b)
 
 ## Project insight
--The dashboard tracks several Key Performance Indicators (KPIs):
-Sales – Total revenue generated,
- Profit – Earnings after deducting costs,
- Number of Orders – Total transactions made,
- Profit Margin – Profit as a percentage of sales,
- YOY Growth – Year-over-Year comparison to measure trends and performance
--Combo Chart – Sales & Profit Analysis
+- The dashboard tracks several Key Performance Indicators (KPIs): Sales – Total revenue generated, Profit – Earnings after deducting costs,Number of Orders – Total transactions made,Profit Margin – Profit as a percentage of sales,YOY Growth – Year-over-Year comparison to measure trends and performance
+- Combo Chart – Sales & Profit Analysis
  Displays monthly trends for sales (blue bars) and profit (yellow area).
 Highest sales in November and highest profit in December → likely due to holiday season impact.
 
