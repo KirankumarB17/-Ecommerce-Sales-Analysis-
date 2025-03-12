@@ -1,7 +1,7 @@
 # E-commerce Sales Performance Analysis & Optimization Using Excel
 
 ## Project Objectives:
-Improve overall sales performance by analyzing key metrics such as revenue, profit margins, sales growth, customer acquisition, and retention rates.
+Analyzing key metrics such as revenue, profit margins, sales growth, customer acquisition, and retention rates can improve overall sales performance.
 Identify opportunities to optimize product offerings and categories to maximize sales revenue.
 Analyze customer behavior and preferences to enhance the shopping experience and increase retention.
 Assess the impact of marketing campaigns, promotions, and external factors on sales performance to optimize marketing strategies and spending.
@@ -45,11 +45,10 @@ Highest sales in November and highest profit in December → likely due to holid
  Technology has the highest profit, Furniture has the lowest profit, and Office Supplies perform moderately.
 - Horizontal Bar Chart – Top 5 Sub-Categories. Ranks top-selling sub-categories by revenue.
  Phones contribute the highest sales, followed by Chairs, Storage, Tables, and Binders. and Prioritize marketing & inventory for Phones and Chairs to drive more revenue.
-
-
-
-
- 
+- Donut Chart – Category-wise Sales Distribution. Shows percentage share of sales by category.
+Technology (36.4%) is the leading category, followed by Furniture (32.3%) and Office Supplies (31.3%) Expand sales efforts in high-performing categories while improving low-performing ones.
+Heat Map – State-wise Sales Performance. Displays sales performance across different states. California has the highest sales, followed by other states. Strengthen marketing and logistics in high-performing states while identifying growth potential in weaker regions.
+- Slicers & Dynamic Filtering. The dashboard includes interactive slicers for: Region – Central | East | South | West, Segment – Consumer | Corporate | Home Office, Year – 2011 | 2012 | 2013 | 2014. and Purpose: Allows users to filter and analyze sales trends for different time periods, customer segments, and regions.
 
 
 
